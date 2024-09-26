@@ -1,4 +1,4 @@
-ID,Store_id,Store_Type,Location_Type,Region_Code,Date,Holiday,Discount
+ID,Store_id,Store_Type,Location_Type,Region_Code,Date,Holiday,Discoun
 T1188341,171,S4,L2,R3,2019-06-01,0,No
 T1188342,172,S1,L1,R1,2019-06-01,0,No
 T1188343,173,S4,L2,R1,2019-06-01,0,No
